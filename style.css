@@ -1,0 +1,15 @@
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 56px;
+}
+
+#container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+
+#header {
+	width: 100vh;
+}
