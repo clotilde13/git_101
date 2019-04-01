@@ -1,6 +1,8 @@
 h1 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 56px;
+	font-weight: lighter;
+	color: rgb(67;67;67);
 }
 
 #container {
